@@ -1,0 +1,9 @@
+ipykernel
+boto3
+xarray
+xarray[io]
+cfgrib
+dask
+matplotlib
+hvplot
+jupyter_bokeh
